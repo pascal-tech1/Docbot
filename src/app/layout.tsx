@@ -20,7 +20,7 @@ export default function RootLayout({
       <body
         // the grainy class is an external class in global.css
         className={cn(
-          "min-h-screen font-sans antialiased grainy",
+          "min-h-screen font-sans antialiased  grainy",
           inter.className
         )}
       >
